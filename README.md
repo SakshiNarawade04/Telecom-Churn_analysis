@@ -69,3 +69,8 @@ The Problem: 88% of churners are on Month-to-Month contracts.
 // Business Impact:-> Stabilizes Monthly Recurring Revenue (MRR) by converting volatile month-to-month cash flow into predictable annual revenue.
 
 
+<img width="1000" height="800" alt="TelecomChurn_analysis-1" src="https://github.com/user-attachments/assets/5dda4e85-febc-4c78-8c67-8980b133f464" />
+
+<img width="1000" height="800" alt="TelecomChurn_analysis-2" src="https://github.com/user-attachments/assets/8f414798-893b-4dbd-8799-b224d21bbfba" />
+
+SQL analysis code:->  [TelecomChurn_sql.sql](https://github.com/user-attachments/files/24411608/TelecomChurn_sql.sql)
