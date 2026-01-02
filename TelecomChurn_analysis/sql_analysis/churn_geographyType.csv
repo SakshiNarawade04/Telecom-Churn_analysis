@@ -1,0 +1,11 @@
+City,Total_Customers,Churned_Customers,Churn_Rate_Percent,Revenue_Lost
+"San Diego",285,185,64.91,385446.39
+"Los Angeles",293,78,26.62,147090.46
+Sacramento,108,26,24.07,59449.2
+"San Francisco",104,31,29.81,56894.27
+"Santa Barbara",28,10,35.71,46033.71
+"San Jose",112,29,25.89,44393.49
+Temecula,38,22,57.89,44102.41
+Escondido,51,16,31.37,38869.89
+Fallbrook,43,26,60.47,34691.78
+Torrance,25,8,32.00,33534.79

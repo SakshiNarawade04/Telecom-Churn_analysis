@@ -1,0 +1,23 @@
+Customer_Segment,City,Internet Service,Contract,Premium Tech Support,Total_Customers,Churned_Customers,Churn_Rate_Percent,Revenue_Lost
+High-Value (Top 20%),Los Angeles,Yes,Two Year,Yes,18,0,0,0
+Other Customers,San Diego,Yes,Month-to-Month,No,146,130,89.04,168084.55
+Other Customers,Temecula,Yes,Month-to-Month,No,16,13,81.25,19314.93
+Other Customers,Fallbrook,Yes,Month-to-Month,No,21,17,80.95,16855.25
+Other Customers,Escondido,Yes,Month-to-Month,No,15,12,80,14228.28
+Other Customers,San Francisco,Yes,Month-to-Month,No,34,24,70.59,31903.66
+Other Customers,San Diego,No,Month-to-Month,No Internet Service,16,11,68.75,2004.26
+Other Customers,Modesto,Yes,Month-to-Month,No,15,9,60,7626.48
+Other Customers,Los Angeles,Yes,Month-to-Month,No,97,56,57.73,64626.11
+Other Customers,San Diego,Yes,Month-to-Month,Yes,28,16,57.14,25220.64
+Other Customers,Sacramento,Yes,Month-to-Month,No,26,14,53.85,28537.93
+Other Customers,Oakland,Yes,Month-to-Month,No,15,8,53.33,9660.1
+Other Customers,Glendale,Yes,Month-to-Month,No,17,9,52.94,6326.88
+Other Customers,Long Beach,Yes,Month-to-Month,No,22,11,50,14369.02
+Other Customers,San Jose,Yes,Month-to-Month,No,40,19,47.5,20248.2
+Other Customers,Stockton,Yes,Month-to-Month,No,19,9,47.37,11447.58
+Other Customers,Pasadena,Yes,Month-to-Month,No,16,7,43.75,11895.99
+Other Customers,Los Angeles,Yes,Month-to-Month,Yes,24,9,37.5,17888.95
+Other Customers,Los Angeles,No,Month-to-Month,No Internet Service,22,3,13.64,215.87
+Other Customers,Los Angeles,No,Two Year,No Internet Service,29,0,0,0
+Other Customers,Los Angeles,Yes,One Year,No,16,0,0,0
+Other Customers,Los Angeles,No,One Year,No Internet Service,17,0,0,0

@@ -1,0 +1,5 @@
+"Internet Type",Total_Customers,Churned_Count,Churn_Rate
+"Fiber Optic",3035,1236,40.72
+Cable,830,213,25.66
+DSL,1652,307,18.58
+"No Internet Service",1526,113,7.40

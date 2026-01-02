@@ -1,0 +1,10 @@
+Contract,"Internet Service","Premium Tech Support",Total_Customers,Churn_Rate_Percent,Avg_Monthly_Charge
+Month-to-Month,Yes,No,2467,54.72,71.21
+Month-to-Month,Yes,Yes,625,32.96,74.24
+Month-to-Month,No,"No Internet Service",518,19.11,20.02
+"One Year",Yes,Yes,565,13.27,78.04
+"One Year",Yes,No,619,13.25,78.04
+"Two Year",Yes,No,387,3.62,79.44
+"Two Year",Yes,Yes,854,3.40,83.4
+"One Year",No,"No Internet Service",366,2.46,20.29
+"Two Year",No,"No Internet Service",642,0.78,21.28
